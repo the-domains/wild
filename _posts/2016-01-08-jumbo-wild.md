@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.sidetracked.com/jumbo-wild/'
 title: Jumbo Wild
-datePublished: '2016-01-08T22:06:52.675Z'
-dateModified: '2016-01-08T21:58:04.241Z'
+datePublished: '2016-01-08T22:08:06.386Z'
+dateModified: '2016-01-08T22:06:52.675Z'
 sourcePath: _posts/2016-01-08-jumbo-wild.md
 published: true
 inFeed: true
